@@ -16,6 +16,8 @@ I'm **J. Shamsul Bahri**, but you might know me better as '**jibone**' across th
 - Tweeting away [@jibone](https://x.com/jibone)
 - Sharing thoughts at [jshamsul.com](https://jshamsul.com)
 
+<a href='https://ko-fi.com/N4N112RRIJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <!--
 **jibone/jibone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
