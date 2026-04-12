@@ -1,20 +1,30 @@
-## 👋 Greetings, fellow code adventurers!
+## Peace be upon you, fellow builder.
 
-I'm **J. Shamsul Bahri**, but you might know me better as '**jibone**' across the digital realm.
+I'm J. Shamsul Bahri, known on the web as [@Jibone](https://x.com/jibone).
 
-👴 I've witnessed the evolution from chunky 5.25" floppies to cloud storage, survived the dial-up modem cacophony, and marvelled at the rise (and fall) of Flash websites. However, a ‘tech fossil’, I am not!
+I’ve lived through the arc of computing, from floppy disks to the cloud, from the command prompt to the prompt. But I am less interested in nostalgia than in what we are becoming through the tools we build.
 
-🚀 Despite my "vintage" status in tech years, I always love working and experimenting with modern cutting-edge dev tools and tech stack. 
+I write code, but more importantly, I think about:
+- software as a reflection of intention,
+- interfaces that shape attention,
+- systems that either clarify the mind, … or rot it.
 
-🔮 Current obsessions:
-- Diving deep into the **Web3** rabbit hole
-- Exploring the mind-bending possibilities of **Generative AI**
+⚙️ My current focus:
+- Intentional software design,
+- Web3 as ownership infrastructure,
+- AI as both tool and test of human discipline.
 
-🤝 I'm on the lookout for kindred spirits in these realms. I’m always looking for exciting projects to collaborate on. 
+🧭 I’m drawn to projects that value:
+- clarity over engagement,
+- depth over noise,
+- craftsmanship over growth hacks.
 
-🌐 Find me in the wild:
-- Tweeting away [@jibone](https://x.com/jibone)
-- Sharing thoughts at [jshamsul.com](https://jshamsul.com)
+If you’re building with that spirit, I would love to talk to you.
+
+🌐 Elsewhere:
+- Most of my writings are archived at: [jshamsul.com](https://jshamsul.com)
+- Subscribe to my newsletter [Code & Codex](https://codeandcodex.substack.com)
+- You can find me elsewhere here: [jshamsul.com/connect](https://jshamsul.com/connect)
 
 <a href='https://ko-fi.com/N4N112RRIJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
